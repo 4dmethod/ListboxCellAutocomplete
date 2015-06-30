@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:braymo:Desktop:ListboxCellAutocomplete.4dbase:ListboxMultipleRowDnD[0001].4BK
+Creating log backup : Macintosh HD:Users:braymo:Desktop:ListboxCellAutocomplete.4dbase:ListboxMultipleRowDnD[0000].4BL
+Scheduled : 05/27/15 16:59:30
+Starting : 05/27/15 16:59:30
+Ending : 05/27/15 16:59:30
+
